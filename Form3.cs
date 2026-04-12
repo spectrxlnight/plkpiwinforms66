@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace WinForms1
+namespace WinFormsApp1
 {
     public partial class Form3 : Form
     {
