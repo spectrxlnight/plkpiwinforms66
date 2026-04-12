@@ -1,4 +1,4 @@
-namespace Variant7
+namespace WinFormsApp1
 {
     partial class Form3
     {
